@@ -1,0 +1,79 @@
+2025-02-03 11:18:05  [INFO]:  ['aws_ips', 'ips', 'test']
+2025-02-03 11:18:06  [INFO]:  v6 count 0
+2025-02-03 11:18:06  [INFO]:  v4 count 8389
+2025-02-03 12:19:11  [INFO]:  ['aws_ips', 'ips', 'test']
+2025-02-03 12:19:12  [INFO]:  v6 count 0
+2025-02-03 12:19:12  [INFO]:  v4 count 8389
+2025-02-03 12:26:20  [INFO]:  ['aws_ips', 'ips', 'test']
+2025-02-03 12:26:20  [INFO]:  v6 count 0
+2025-02-03 12:26:20  [INFO]:  v4 count 8389
+2025-02-03 12:27:49  [INFO]:  ['aws_ips', 'ips', 'test']
+2025-02-03 12:27:49  [INFO]:  v6 count 0
+2025-02-03 12:27:49  [INFO]:  v4 count 8389
+2025-02-03 12:29:08  [INFO]:  ['aws_ips', 'ips', 'test']
+2025-02-03 12:29:08  [INFO]:  v6 count 0
+2025-02-03 12:29:08  [INFO]:  v4 count 8389
+2025-02-03 12:29:08  [INFO]:  <class 'ipaddress.IPv4Address'>
+2025-02-03 12:29:08  [INFO]:  <class 'ipaddress.IPv4Address'>
+2025-02-03 12:30:18  [INFO]:  ['aws_ips', 'ips', 'test']
+2025-02-03 12:30:18  [INFO]:  v6 count 0
+2025-02-03 12:30:18  [INFO]:  v4 count 8389
+2025-02-03 12:30:18  [INFO]:  4
+2025-02-03 12:30:18  [INFO]:  4
+2025-02-03 12:32:19  [INFO]:  ['aws_ips', 'ips', 'test']
+2025-02-03 12:32:19  [INFO]:  v6 count 0
+2025-02-03 12:32:19  [INFO]:  v4 count 8389
+2025-02-03 12:32:19  [INFO]:  4
+2025-02-03 12:32:19  [INFO]:  <class 'NoneType'>
+2025-02-03 12:32:19  [INFO]:  4
+2025-02-03 12:32:19  [INFO]:  <class 'NoneType'>
+2025-02-03 12:32:42  [INFO]:  ['aws_ips', 'ips', 'test']
+2025-02-03 12:32:42  [INFO]:  v6 count 0
+2025-02-03 12:32:42  [INFO]:  v4 count 8389
+2025-02-03 12:32:42  [INFO]:  <class 'collections.OrderedDict'>
+2025-02-03 12:32:42  [INFO]:  4
+2025-02-03 12:32:42  [INFO]:  <class 'NoneType'>
+2025-02-03 12:32:42  [INFO]:  <class 'collections.OrderedDict'>
+2025-02-03 12:32:42  [INFO]:  4
+2025-02-03 12:32:42  [INFO]:  <class 'NoneType'>
+2025-02-03 12:34:21  [INFO]:  ['aws_ips', 'ips', 'test']
+2025-02-03 12:34:21  [INFO]:  v6 count 0
+2025-02-03 12:34:21  [INFO]:  v4 count 8389
+2025-02-03 12:34:21  [INFO]:  <class 'collections.OrderedDict'>
+2025-02-03 12:34:21  [INFO]:  4
+2025-02-03 12:34:55  [INFO]:  ['aws_ips', 'ips', 'test']
+2025-02-03 12:34:55  [INFO]:  v6 count 0
+2025-02-03 12:34:55  [INFO]:  v4 count 8389
+2025-02-03 12:34:55  [INFO]:  <class 'collections.OrderedDict'>
+2025-02-03 12:34:55  [INFO]:  4
+2025-02-03 12:34:55  [INFO]:  <class 'collections.OrderedDict'>
+2025-02-03 12:34:55  [INFO]:  <class 'collections.OrderedDict'>
+2025-02-03 12:34:55  [INFO]:  4
+2025-02-03 12:34:55  [INFO]:  <class 'collections.OrderedDict'>
+2025-02-03 13:24:49  [INFO]:  ['aws_ips', 'ips', 'test']
+2025-02-03 13:24:49  [INFO]:  v6 count 0
+2025-02-03 13:24:49  [INFO]:  v4 count 8389
+2025-02-03 13:24:49  [INFO]:  <class 'collections.OrderedDict'>
+2025-02-03 13:24:49  [INFO]:  4
+2025-02-03 13:24:49  [INFO]:  <class 'collections.OrderedDict'>
+2025-02-03 13:24:49  [INFO]:  <class 'collections.OrderedDict'>
+2025-02-03 13:24:49  [INFO]:  4
+2025-02-03 13:24:49  [INFO]:  <class 'collections.OrderedDict'>
+2025-02-07 11:15:52  [INFO]:  ['aws_ips', 'ips', 'test']
+2025-02-07 11:15:53  [INFO]:  v6 count 0
+2025-02-07 11:15:53  [INFO]:  v4 count 8389
+2025-02-07 11:15:53  [INFO]:  <class 'collections.OrderedDict'>
+2025-02-07 11:15:53  [INFO]:  4
+2025-02-07 11:15:53  [INFO]:  <class 'collections.OrderedDict'>
+2025-02-07 11:15:53  [INFO]:  <class 'collections.OrderedDict'>
+2025-02-07 11:15:53  [INFO]:  4
+2025-02-07 11:15:53  [INFO]:  <class 'collections.OrderedDict'>
+2025-02-11 11:47:12  [INFO]:  ['aws_ips', 'ips', 'test']
+2025-02-11 11:47:13  [INFO]:  v6 count 0
+2025-02-11 11:47:13  [INFO]:  v4 count 8389
+2025-02-11 11:47:13  [INFO]:  <class 'collections.OrderedDict'>
+2025-02-11 11:47:13  [INFO]:  4
+2025-02-11 11:47:13  [INFO]:  <class 'collections.OrderedDict'>
+2025-02-11 11:47:13  [INFO]:  <class 'collections.OrderedDict'>
+2025-02-11 11:47:13  [INFO]:  4
+2025-02-11 11:47:13  [INFO]:  <class 'collections.OrderedDict'>

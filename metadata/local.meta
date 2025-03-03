@@ -1,0 +1,10 @@
+[]
+access = read : [ * ], write : [ * ]
+export = system
+version = 9.4.0
+modtime = 1737584389.691441000
+
+[collections/testKV]
+owner = admin
+version = 9.4.0
+modtime = 1738509106.165142000

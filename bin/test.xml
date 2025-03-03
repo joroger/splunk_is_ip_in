@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--This is to override browser formatting; see server.conf[httpServer] to disable. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .-->
+<?xml-stylesheet type="text/xml" href="/static/atom.xsl"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:s="http://dev.splunk.com/ns/rest" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
+  <title>collections-conf</title>
+  <id>https://127.0.0.1/servicesNS/nobody/search/storage/collections/config</id>
+  <updated>2025-02-02T19:39:59-05:00</updated>
+  <generator build="6b4ebe426ca6" version="9.4.0"/>
+  <author>
+    <name>Splunk</name>
+  </author>
+  <link href="/servicesNS/nobody/search/storage/collections/config/_new" rel="create"/>
+  <link href="/servicesNS/nobody/search/storage/collections/config/_reload" rel="_reload"/>
+  <link href="/servicesNS/nobody/search/storage/collections/config/_acl" rel="_acl"/>
+  <opensearch:totalResults>1</opensearch:totalResults>
+  <opensearch:itemsPerPage>30</opensearch:itemsPerPage>
+  <opensearch:startIndex>0</opensearch:startIndex>
+  <s:messages/>
+  <entry>
+    <title>testKV</title>
+    <id>https://127.0.0.1/servicesNS/nobody/search/storage/collections/config/testKV</id>
+    <updated>2025-02-01T09:47:23-05:00</updated>
+    <link href="/servicesNS/nobody/search/storage/collections/config/testKV" rel="alternate"/>
+    <author>
+      <name>admin</name>
+    </author>
+    <link href="/servicesNS/nobody/search/storage/collections/config/testKV" rel="list"/>
+    <link href="/servicesNS/nobody/search/storage/collections/config/testKV/_reload" rel="_reload"/>
+    <link href="/servicesNS/nobody/search/storage/collections/config/testKV" rel="edit"/>
+    <link href="/servicesNS/nobody/search/storage/collections/config/testKV" rel="remove"/>
+    <link href="/servicesNS/nobody/search/storage/collections/config/testKV/disable" rel="disable"/>
+    <content type="text/xml">
+      <s:dict>
+        <s:key name="disabled">0</s:key>
+        <s:key name="eai:acl">
+          <s:dict>
+            <s:key name="app">search</s:key>
+            <s:key name="can_change_perms">1</s:key>
+            <s:key name="can_list">1</s:key>
+            <s:key name="can_share_app">1</s:key>
+            <s:key name="can_share_global">1</s:key>
+            <s:key name="can_share_user">1</s:key>
+            <s:key name="can_write">1</s:key>
+            <s:key name="modifiable">1</s:key>
+            <s:key name="owner">admin</s:key>
+            <s:key name="perms">
+              <s:dict>
+                <s:key name="read">
+                  <s:list>
+                    <s:item>*</s:item>
+                  </s:list>
+                </s:key>
+                <s:key name="write">
+                  <s:list>
+                    <s:item>admin</s:item>
+                    <s:item>power</s:item>
+                  </s:list>
+                </s:key>
+              </s:dict>
+            </s:key>
+            <s:key name="removable">1</s:key>
+            <s:key name="sharing">app</s:key>
+          </s:dict>
+        </s:key>
+        <s:key name="eai:appName">search</s:key>
+        <s:key name="eai:attributes">
+          <s:dict>
+            <s:key name="optionalFields">
+              <s:list>
+                <s:item>enforceTypes</s:item>
+                <s:item>profilingEnabled</s:item>
+                <s:item>profilingThresholdMs</s:item>
+                <s:item>replicate</s:item>
+                <s:item>replication_dump_maximum_file_size</s:item>
+                <s:item>replication_dump_strategy</s:item>
+              </s:list>
+            </s:key>
+            <s:key name="requiredFields">
+              <s:list/>
+            </s:key>
+            <s:key name="wildcardFields">
+              <s:list>
+                <s:item>accelerated_fields\..*</s:item>
+                <s:item>field\..*</s:item>
+              </s:list>
+            </s:key>
+          </s:dict>
+        </s:key>
+        <s:key name="eai:userName">nobody</s:key>
+        <s:key name="field.test">string</s:key>
+        <s:key name="profilingEnabled">false</s:key>
+        <s:key name="profilingThresholdMs">1000</s:key>
+        <s:key name="replicate">false</s:key>
+        <s:key name="replication_dump_maximum_file_size">10240</s:key>
+        <s:key name="replication_dump_strategy">auto</s:key>
+        <s:key name="type">undefined</s:key>
+      </s:dict>
+    </content>
+  </entry>
+</feed>

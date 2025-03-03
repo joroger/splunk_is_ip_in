@@ -1,0 +1,1 @@
+https://127.0.0.1:8089/servicesNS/nobody/search/storage/collections/data/aws_ips?fields=_key%2Cips
